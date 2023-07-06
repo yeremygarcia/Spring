@@ -1,4 +1,4 @@
-# Spring
+# SpringREADME
 Basic Spring Application
 
 Instructions: 
